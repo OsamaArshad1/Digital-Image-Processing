@@ -1,4 +1,4 @@
-A=imread("imagetest.jpg");
+A=imread("test.jpeg");
 
 Anew=rgb2gray(A);
 [R, C]=size(Anew);
