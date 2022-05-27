@@ -1,4 +1,4 @@
-orgImage=rgb2gray(uint8(imread('start_test.png')));
+orgImage=rgb2gray(uint8(imread('test.jpeg')));
 
 [R,C]=size(orgImage);
 avgImage = zeros(R,C);
