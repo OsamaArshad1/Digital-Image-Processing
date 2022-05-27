@@ -1,4 +1,4 @@
-A=imread('imagetest.jpg');
+A=imread('test.jpeg');
 figure; imshow(A)
 %Anew=rgb2gray(A);
 B=zeros(100,100);
